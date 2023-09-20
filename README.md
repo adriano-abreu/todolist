@@ -11,8 +11,11 @@ Este é um aplicativo simples de lista de tarefas criado com TypeScript, ReactJS
 ## ✨ Recursos
 
 [x] Adicionar novas tarefas.
+
 [x] Remover tarefas da lista.
+
 [] Marcar tarefas como concluídas.
+
 [] Filtrar tarefas por status (Todas, Pendentes, Concluídas).
 
 ## 🛠️ Instalação
